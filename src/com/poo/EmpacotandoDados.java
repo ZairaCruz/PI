@@ -1,5 +1,7 @@
 package com.poo;
-
+/*
+/@autora: Zaira Cruz
+/*
 public class EmpacotandoDados {
 	private String ip;
 	private String usuario;
